@@ -9,5 +9,5 @@ unity 植入到微信小程序解决方案，不是小游戏 ,unity for wechat m
 
 以下是植入到小程序的体验包,扫码体验小程序:  
 ![Alt text](2.JPG?raw=true "miniprogram unity")  
-![Alt text](3.png?raw=true "miniprogram unity")  
+
 
